@@ -7,5 +7,7 @@
 		</head>
 	<body>
 		Hello this is Kenny's SECOND app!
+		
+		Clay is a great teacher
 	</body>
 </html>
